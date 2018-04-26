@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>T21_M3_D3_ETL_Project_1300-Karthik</Name>
+    <LastWriteTime>2018-04-22T21:40:46.8369998Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+    <Salt>zsmlgHPt</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAL1noIDQEx0+utZBPkA2O0gAAAAACAAAAAAAQZgAAAAEAACAAAADOY5sFMnpxoLiWi5pYipWPXS9OaA6x8gEBnrdVrT062wAAAAAOgAAAAAIAACAAAABV9mqxdBPSTdTI7GQawiIVwUDKZH8bC/dffwtejk0/vjAAAACb/aH9jKefWmFbon+nK3x1VcsrIAnrsXqnnK9ZFezTiu4fznKmnVGOtau0gLPhS8RAAAAAvGNLsIksBULqP+i1Ud4A9pwRyajWT/AXjI73v0k/q+/TYg7PgVbCFTVv7Kk7nf2catz43aSHrGmAkHb4IAw+qg==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>1300-Karthik_Package.dtsx</Name>
+      <LastWriteTime>2018-04-26T01:20:21.8482744Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithPassword</LastKnownProtectionLevel>
+      <Salt>AcNYV0SR</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAL1noIDQEx0+utZBPkA2O0gAAAAACAAAAAAAQZgAAAAEAACAAAAB3NvsaQVe0UHjQcNBjaAOMNPWsf5mPkcqagZuDVc0EcgAAAAAOgAAAAAIAACAAAABnQ/mtDvS9GdSLYqwRow8z6BCYQye9HOfhbrcyWSvjMjAAAABgAqD06h1pkjDnxdc6gY9WeTYBjkruERQY8JQX3UflHqyCnwF7HG6DNJzzSAPx7rhAAAAApw1pxCfo7boomumXCJluaFqbqjwUq9Pxs9TzBWZ+F9KHRUZIHhfmxlI7zpOvl1plHmHvg4gNIVtiyE8AQhn3rQ==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
